@@ -23,5 +23,6 @@
   "homepage": "https://github.com/BaraLimbong/learn-nosql#readme",
   "devDependencies": {
     "nodemon": "^1.18.10"
-  }
+  },
+  "dependencies": {}
 }
